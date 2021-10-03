@@ -10,7 +10,7 @@ No momento meus estudos são voltados para área do Front-End, foi por onde come
 Enfim, sintam-se a vontade em me seguir e ir acompanhando meus pequenos projetos, não se acanhem, podem contribuir também
 No que eu poder ajudar irei ajudar.
 
-<a href="https://web.whatsapp.com/" title="Acesse de seu smartphone para enviar por WhatsApp">https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white</a>
+<a href="https://web.whatsapp.com/" title="Acesse de seu smartphone para enviar por WhatsApp"></a>
 
 
 
