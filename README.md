@@ -10,7 +10,7 @@ No momento meus estudos são voltados para área do Front-End, foi por onde come
 Enfim, sintam-se a vontade em me seguir e ir acompanhando meus pequenos projetos, não se acanhem, podem contribuir também
 No que eu poder ajudar irei ajudar.
 
-<a href="https://web.whatsapp.com/" title="Acesse de seu smartphone para enviar por WhatsApp"></a>
+https://github-readme-stats.vercel.app/api?username={username}
 
 
 
