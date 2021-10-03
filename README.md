@@ -22,19 +22,15 @@ No que eu poder ajudar irei ajudar.
 <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeff-desv&theme=tokyonight&show_icons=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-desv&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<hr>
 
 <div align="center">
 <br><br><br><br>
-<hr>
 
-
-<div aling="center">
+<div style"display: inline_block"><br>
   <h1>Tecnologias que Tenho Experiência</h1>
-<hr>
-  <a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">![image](https://user-images.githubusercontent.com/74883711/135737345-bc1822f1-631f-41c8-b499-7aeb5e07838a.png)</a>
-  ![image](https://user-images.githubusercontent.com/74883711/135737352-a1137713-8219-4b7d-a29d-a8e87be1f1ec.png)
-  ![image](https://user-images.githubusercontent.com/74883711/135737360-3d785b76-143f-4984-811f-f6000375f6d4.png)
-
+  <hr>
+ <img aling="center" alt="html" height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
 
