@@ -10,9 +10,11 @@ No momento meus estudos são voltados para área do Front-End, foi por onde come
 Enfim, sintam-se a vontade em me seguir e ir acompanhando meus pequenos projetos, não se acanhem, podem contribuir também
 No que eu poder ajudar irei ajudar.
 
-# 👨👩 Social 🔝
+![image](https://user-images.githubusercontent.com/74883711/135736726-40a0a8a8-fe50-42ba-9df6-1421068b892a.png) ![image](https://user-images.githubusercontent.com/74883711/135736732-a24dfd94-27e8-4816-9b65-7a494a3b10a5.png) ![image](https://user-images.githubusercontent.com/74883711/135736736-2b545ce1-b80b-446d-99ba-6d23d9fcfac1.png)
 
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
+
+
+
 
 
 # 👩‍💻 Languages
