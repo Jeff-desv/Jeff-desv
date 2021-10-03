@@ -10,7 +10,13 @@ No momento meus estudos são voltados para área do Front-End, foi por onde come
 Enfim, sintam-se a vontade em me seguir e ir acompanhando meus pequenos projetos, não se acanhem, podem contribuir também
 No que eu poder ajudar irei ajudar.
 
-https://github-readme-stats.vercel.app/api?username={username}
+<div>
+<a href="https://github.com/Jeff-desv">
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeff-desv&theme=tokyonight&show_icons=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-desv&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
 
 
 
