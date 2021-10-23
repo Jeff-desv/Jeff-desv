@@ -1,4 +1,4 @@
-### Hello Mundão 👋
+### Hello Mundo 👋
 ---
 
 Me chamo **Jeffson Bruno de Sousa**, sou Discente do curso de Análise e Desenvolvimento de Sistemas,
