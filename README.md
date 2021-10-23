@@ -1,20 +1,17 @@
 ### Hello Mundo 👋
 ---
 
-Me chamo **Jeffson Bruno de Sousa**, sou Discente do curso de Análise e Desenvolvimento de Sistemas,
-comecei a Estudar Programação no Final de 2020, sempre tive curiosidade mas evitei por muito tempo
-pois muitos diziam que programação só era para quem é expert em matemática, só que no primeiro curso que fiz não pensei duas 
-vezes em entrar em um curso superior,fazer mais cursos e  ir adquirindo mais conhecimentos 
-hoje me sinto realizado apesar de ainda não estar atuando na área não penso em desitir, e sim persistir e evoluir 🚀 🚀 🚀.
+Me chamo **Jeffson Bruno de Sousa**, sou Discente do curso de Análise e Desenvolvimento de Sistemas, comecei a estudar sobre Desenvolvimento Web no ìnicio desse ano de 2021, e desde então estou focando no estudo de Front-End, mas não quero me limitar somente a isso, pretendo estudar novas tecnologias tanto para o Front como Back-End.
 
-No momento meus estudos são voltados para área do Front-End, foi por onde comecei e ainda estou me aperfeiçoando
-Enfim, sintam-se a vontade em me seguir e ir acompanhando meus pequenos projetos, não se acanhem, podem contribuir também
-No que eu poder ajudar irei ajudar.
+Acompanhem minha Evolução, sintam-se a vontade em contribuir, todo conhecimento e bem vindo!!
 <hr>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jeffson-sousa-a46b67200/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/brunojeff0012/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="whatsapp://send?text=TITULO &ndash; LINK" title="Acesse de seu smartphone para enviar por WhatsApp"></a>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v12.0" nonce="XTu5QQ15"></script>
 </di> <br><br><br>
 
 <div>
