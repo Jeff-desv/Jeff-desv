@@ -27,7 +27,7 @@
 
 <div style"display: inline_block"><br>
   <h1>Estudando no Momento</h1>
- <img aling="center" alt="Typescript" height="40" src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img aling="center" alt="Typescript" height="40" src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white">
  <img aling="center" alt="sass" height="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  <img aling="center" alt="Angular" height="40" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 </div>
