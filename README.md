@@ -34,8 +34,8 @@
   <h1>Proximo Passo</h1>
  <img aling="center" alt="React" height="40" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=white">
  <img aling="center" alt="NextJs" height="40" src="https://img.shields.io/badge/NextJS-E23237?style=for-the-badge&logo=nextjs&logoColor=white">
- <img aling="center" alt="VueJs" height="40" src="https://img.shields.io/badge/VueJs-CC6699?style=for-the-badge&logo=vuejs&logoColor=white">
- <img aling="center" alt="Postgres" height="40" src="https://img.shields.io/badge/Postgres-CC6699?style=for-the-badge&logo=postgres&logoColor=white">
+ <img aling="center" alt="Vue" height="40" src="https://img.shields.io/badge/Vue-CC6699?style=for-the-badge&logo=vue&logoColor=white">
+ <img aling="center" alt="PostgresSQL" height="40" src="https://img.shields.io/badge/PostgresSQL-CC6699?style=for-the-badge&logo=postgressql&logoColor=white">
  <img aling="center" alt="MongoDB" height="40" src="https://img.shields.io/badge/MongoDB-CC6699?style=for-the-badge&logo=mongodb&logoColor=white">
  <img aling="center" alt="MySQL" height="40" src="https://img.shields.io/badge/MySQL-CC6699?style=for-the-badge&logo=mysql&logoColor=white">
  <img aling="center" alt="PHP" height="40" src="https://img.shields.io/badge/PHP-CC6699?style=for-the-badge&logo=php&logoColor=white">
