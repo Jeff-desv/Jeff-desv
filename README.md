@@ -32,7 +32,7 @@
 <hr>
 <div style"display: inline_block"><br>
   <h1>Proximo Passo</h1>
- <img aling="center" alt="React" height="40" src="https://img.shields.io/badge/React-E23237?style=for-the-badge&logo=react&logoColor=white">
+ <img aling="center" alt="React" height="40" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=white">
  <img aling="center" alt="NextJs" height="40" src="https://img.shields.io/badge/NextJS-E23237?style=for-the-badge&logo=nextjs&logoColor=white">
  <img aling="center" alt="VueJs" height="40" src="https://img.shields.io/badge/VueJs-CC6699?style=for-the-badge&logo=vuejs&logoColor=white">
  <img aling="center" alt="Postgres" height="40" src="https://img.shields.io/badge/Postgres-CC6699?style=for-the-badge&logo=postgres&logoColor=white">
