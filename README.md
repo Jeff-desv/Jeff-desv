@@ -1,10 +1,4 @@
-### Hello Mundo 👋
----
 
-Me chamo **Jeffson Bruno de Sousa**, sou Discente do curso de Análise e Desenvolvimento de Sistemas, comecei a estudar sobre Desenvolvimento Web no ìnicio desse ano de 2021, e desde então estou focando no estudo de Front-End, mas não quero me limitar somente a isso, pretendo estudar novas tecnologias tanto para o Front como Back-End.
-
-Acompanhem minha Evolução, sintam-se a vontade em contribuir, todo conhecimento e bem vindo!!
-<hr>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/jeffson-sousa-a46b67200/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
