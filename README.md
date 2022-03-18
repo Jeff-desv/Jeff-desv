@@ -22,14 +22,23 @@
  <img aling="center" alt="Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img aling="center" alt="js" height="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
-
-<br>
-
+<hr>
 <div style"display: inline_block"><br>
   <h1>Estudando no Momento</h1>
  <img aling="center" alt="Typescript" height="40" src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white">
- <img aling="center" alt="sass" height="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  <img aling="center" alt="Angular" height="40" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+ <img aling="center" alt="sass" height="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</div>
+<hr>
+<div style"display: inline_block"><br>
+  <h1>Proximo Passo</h1>
+ <img aling="center" alt="React" height="40" src="https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=react&logoColor=white">
+ <img aling="center" alt="NextJs" height="40" src="https://img.shields.io/badge/NextJS-E23237?style=for-the-badge&logo=nextjs&logoColor=white">
+ <img aling="center" alt="VueJs" height="40" src="https://img.shields.io/badge/VueJs-CC6699?style=for-the-badge&logo=vuejs&logoColor=white">
+ <img aling="center" alt="Postgres" height="40" src="https://img.shields.io/badge/Postgres-CC6699?style=for-the-badge&logo=postgres&logoColor=white">
+ <img aling="center" alt="MongoDB" height="40" src="https://img.shields.io/badge/MongoDB-CC6699?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img aling="center" alt="MySQL" height="40" src="https://img.shields.io/badge/MySQL-CC6699?style=for-the-badge&logo=mysql&logoColor=white">
+ <img aling="center" alt="PHP" height="40" src="https://img.shields.io/badge/PHP-CC6699?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
 
