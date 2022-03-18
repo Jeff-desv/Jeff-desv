@@ -27,18 +27,19 @@
   <h1>Estudando no Momento</h1>
  <img aling="center" alt="Typescript" height="40" src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white">
  <img aling="center" alt="Angular" height="40" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+ <img aling="center" alt="Angular" height="40" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
  <img aling="center" alt="sass" height="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 <hr>
 <div style"display: inline_block"><br>
   <h1>Proximo Passo</h1>
- <img aling="center" alt="React" height="40" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=blue">
+ <img aling="center" alt="React" height="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  <img aling="center" alt="NextJs" height="40" src="https://img.shields.io/badge/NextJS-E23237?style=for-the-badge&logo=nextjs&logoColor=black">
- <img aling="center" alt="Vue" height="40" src="https://img.shields.io/badge/Vue-0F9D58?style=for-the-badge&logo=vue&logoColor=white">
+ <img aling="center" alt="Vue" height="40" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
  <img aling="center" alt="PostgreSQL" height="40" src="https://img.shields.io/badge/PostgreSQL-CC6699?style=for-the-badge&logo=postgresql&logoColor=white">
  <img aling="center" alt="MongoDB" height="40" src="https://img.shields.io/badge/MongoDB-CC6699?style=for-the-badge&logo=mongodb&logoColor=white">
  <img aling="center" alt="MySQL" height="40" src="https://img.shields.io/badge/MySQL-CC6699?style=for-the-badge&logo=mysql&logoColor=white">
- <img aling="center" alt="PHP" height="40" src="https://img.shields.io/badge/PHP-CC6699?style=for-the-badge&logo=php&logoColor=white">
+ <img aling="center" alt="PHP" height="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
 
