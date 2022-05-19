@@ -20,19 +20,15 @@
 <br>
 
 <div style"display: inline_block"><br>
-  <h1>Tecnologias que Tenho Afinidade</h1>
- <img aling="center" alt="html" height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img aling="center" alt="css" height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img aling="center" alt="Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img aling="center" alt="js" height="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div>
-  
-<div style"display: inline_block"><br>
-  <h1>Estudando no Momento</h1>
- <img aling="center" alt="Typescript" height="40" src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white">
- <img aling="center" alt="Angular" height="40" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
- <img aling="center" alt="Angular" height="40" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
- <img aling="center" alt="sass" height="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <h1>Tecnologias</h1>
+ <img aling="center" alt="html" height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img aling="center" alt="css" height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img aling="center" alt="Bootstrap" height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img aling="center" alt="js" height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img aling="center" alt="Typescript" height="20" src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white">
+ <img aling="center" alt="Angular" height="20" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+ <img aling="center" alt="Angular" height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+ <img aling="center" alt="sass" height="20" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div>
 
 <div style"display: inline_block"><br>
