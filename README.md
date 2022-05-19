@@ -1,10 +1,9 @@
 <div>
   <h1>Olá</h1>
   <p>
-    me chamo Jeffson Bruno, sou estudante de Analise de Sistemas, e há quase um ano venho estudando e aperfeiçoando meus conhecimentos em Front-End, <br>
+    me chamo Jeffson Bruno, sou estudante de Analise de Sistemas, e há quase um ano venho estudando e aperfeiçoando meus conhecimentos em Front-End,
     mas não para por ai, pretendo adquirir mais conhecimento inclusive sobre Back-End.
   </p>
-  <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a             href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/jeffson-sousa-a46b67200/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
