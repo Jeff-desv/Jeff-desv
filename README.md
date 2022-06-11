@@ -10,10 +10,10 @@
 <a href="https://www.instagram.com/brunojeff0012/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </di> <br><br>
 
-<div>
+<div align="center">
 <a href="https://github.com/Jeff-desv">
-<img height="180rem" width="69%" src="https://github-readme-stats.vercel.app/api?username=Jeff-desv&theme=tokyonight&show_icons=true"/>
-  <img height="180rem" width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-desv&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeff-desv&theme=tokyonight&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-desv&layout=compact&langs_count=7&theme=tokyonight"/>
   </div>
 
 <div align="center">
